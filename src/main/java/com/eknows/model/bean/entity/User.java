@@ -3,11 +3,6 @@ package com.eknows.model.bean.entity;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author zfh
- * @version 1.0
- * @date 2018/12/26 14:20
- */
 public class User implements Serializable {
 
     private static final long serialVersionUID = 6872142563866152521L;

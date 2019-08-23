@@ -4,11 +4,6 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author zfh
- * @version 1.0
- * @date 2018/12/26 14:35
- */
 public class JsonResult implements Serializable {
 
     public static final int ACCESS_TOKEN_INVALID = 50;

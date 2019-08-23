@@ -10,11 +10,6 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
-/**
- * @author zfh
- * @version 1.0
- * @date 2018/12/26 14:03
- */
 @RestController
 @RequestMapping(value = "user")
 public class UserAction extends CommonAction {

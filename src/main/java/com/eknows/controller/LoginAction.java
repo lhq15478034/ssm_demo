@@ -19,9 +19,6 @@ import java.io.IOException;
 
 /**
  * 登录
- * @author zfh
- * @version 1.0
- * @date 2018/12/26 14:33
  */
 @Controller
 @RequestMapping(value = "")

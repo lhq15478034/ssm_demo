@@ -8,11 +8,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 import java.util.Date;
 
-/**
- * @author zfh
- * @version 1.0
- * @date 2018/12/28 15:16
- */
 public class CommonAction {
     /**
      * 从session中获取user

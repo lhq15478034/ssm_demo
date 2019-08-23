@@ -12,9 +12,6 @@ import java.util.List;
 /**
  * 原则上，service层将信任Controller层传递的数据
  * 数据验证将由controller层完成
- * @author zfh
- * @version 1.0
- * @date 2018/12/28 17:11
  */
 @Service
 public class UserServiceImpl implements UserService {

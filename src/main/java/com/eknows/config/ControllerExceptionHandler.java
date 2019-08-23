@@ -12,9 +12,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 统一异常处理
- * @author zfh
- * @version 1.0
- * @date 2019/1/4 15:23
  */
 @ControllerAdvice
 public class ControllerExceptionHandler {
